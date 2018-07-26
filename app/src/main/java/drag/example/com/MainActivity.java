@@ -5,6 +5,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
 import drag.example.com.demo1.SimpleDragActivity;
+import drag.example.com.demo2.Demo2Activity;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -14,6 +15,9 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         findViewById(R.id.btn1).setOnClickListener(v -> {
             startActivity(new Intent(MainActivity.this, SimpleDragActivity.class));
+        });
+        findViewById(R.id.btn2).setOnClickListener(v -> {
+            startActivity(new Intent(MainActivity.this, Demo2Activity.class));
         });
     }
 }

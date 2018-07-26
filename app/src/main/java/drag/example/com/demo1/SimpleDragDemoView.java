@@ -50,7 +50,7 @@ public class SimpleDragDemoView extends LinearLayout {
     @Override
     public boolean onInterceptTouchEvent(MotionEvent ev) {
 //        helper.shouldInterceptTouchEvent(ev);
-        return super.onInterceptTouchEvent(ev);
+        return helper.shouldInterceptTouchEvent(ev);
     }
 
     @Override
