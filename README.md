@@ -7,3 +7,7 @@ ViewDragHelper帮助类的使用
 Demo2Activity效果图
 
 ![Image text](https://raw.githubusercontent.com/AndroidHomeMage/ViewDragHelperdemo/master/screen/Demo2Activity.gif)
+
+
+Demo3Activity 两个控件换位置
+

@@ -17,7 +17,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".demo1.SimpleDragActivity" />
-        <activity android:name=".demo2.Demo2Activity"></activity>
+        <activity android:name=".demo2.Demo2Activity"/>
+        <activity android:name=".demo3.Demo3Activity"/>
     </application>
 
 </manifest>

@@ -17,4 +17,9 @@
        android:layout_width="match_parent"
        android:text="滑动箱体"
        android:layout_height="wrap_content" />
+   <Button
+       android:id="@+id/btn3"
+       android:layout_width="match_parent"
+       android:text="scroller使用，点击交换两个控件位置"
+       android:layout_height="wrap_content" />
 </LinearLayout>
