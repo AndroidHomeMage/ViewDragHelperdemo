@@ -11,4 +11,4 @@ Demo2Activity效果图
 
 Demo3Activity 两个控件换位置
 
-！[换位view](https://raw.githubusercontent.com/AndroidHomeMage/ViewDragHelperdemo/master/screen/%E6%8D%A2%E4%BD%8D.gif)
+![换位view](https://raw.githubusercontent.com/AndroidHomeMage/ViewDragHelperdemo/master/screen/%E6%8D%A2%E4%BD%8D.gif)
